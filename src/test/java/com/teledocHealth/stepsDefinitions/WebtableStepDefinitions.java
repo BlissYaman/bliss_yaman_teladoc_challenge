@@ -8,14 +8,12 @@ import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import org.junit.Assert;
-import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
-import javax.swing.text.Utilities;
 import java.util.List;
 
-public class webtableStepDefinitions {
+public class WebtableStepDefinitions {
 
     WebtablesPage webtablesPage = new WebtablesPage();
 
